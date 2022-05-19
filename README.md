@@ -1,11 +1,11 @@
 DEMO
 ===========================
 
-########### 环境依赖
+###########环境依赖
 node v0.10.28+
 redIs ~
 
-########### 部署步骤
+###########部署步骤
 1. 添加系统环境变量
     export $PORTAL_VERSION="production" // production, test, dev
 
@@ -19,7 +19,7 @@ redIs ~
         forever start logger-service.js
 
 
-########### 目录结构描述
+###########目录结构描述
 ├── Readme.md                   // help
 ├── app                         // 应用
 ├── config                      // 配置
@@ -48,7 +48,7 @@ redIs ~
 
 
 
-########### V1.0.0 版本内容更新
+###########V1.0.0 版本内容更新
 1. 新功能     aaaaaaaaa
 2. 新功能     bbbbbbbbb
 3. 新功能     ccccccccc
